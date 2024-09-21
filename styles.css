@@ -1,0 +1,129 @@
+body{
+    font-family: "Hanken Grotesk", sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.reaction{
+    padding-top: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.reaction-2{
+    padding-top: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 30px;
+    color: hsl(224, 30%, 27%);
+}
+.box-1{
+    background-color: hsl(241, 81%, 54%);
+    width: 390px;
+    margin: auto;
+    height: 560px;
+    border-radius: 40px;
+    color: white;
+    position: absolute;
+    right: 380px;
+}
+.box-2{
+
+    width: 390px;
+    margin: auto;
+    height: 560px;
+    border-radius: 40px;
+    color: white;
+    position: absolute;
+    left: 380px;
+}
+.parent{
+    background-color: white;
+    height: 560px;
+    width: 780px;
+    position: relative;
+    margin: auto;
+    border-radius: 40px;
+}
+.circle-1{
+    background-color: hsla(256, 72%, 46%, 1);
+    width: 200px;
+    margin: auto;
+    padding: auto;
+    height: 200px;
+    border-radius: 100px;
+    font-weight: 900;   
+}
+.text-1{
+    font-size: 1.2rem;
+    font-weight: 300;
+    width: 65%;
+    margin: 0 auto;
+}
+.size-1{
+    font-size: 6rem;
+    margin: auto;
+    padding-top: 30px;
+}
+.size-2{
+    margin: 0;
+    font-size: 1rem;
+}
+
+.box-3{
+    background-color: hsl(221, 100%, 96%);
+    width: 80%;
+    height: 60px;
+    border-radius: 10px;
+    margin: 0 auto 30px;
+    display: inline-block;
+    position: relative;
+
+}
+.img-box{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+h3{
+    color: hsl(166, 100%, 37%);
+}
+.text-2{
+    position: absolute;
+    left: 50px;
+    color: hsl(0, 100%, 67%);
+}
+.text-3{
+    position: absolute;
+    right: 30px;
+}
+span{
+    color: hsl(224, 30%, 27%);
+}
+.text-2-1{
+    position: absolute;
+    left: 50px;
+    color: hsl(39, 100%, 56%);
+}
+.text-2-2{
+    position: absolute;
+    left: 50px;
+    color: hsl(166, 100%, 37%);
+}
+.text-2-3{
+    position: absolute;
+    left: 50px;
+    color: hsl(234, 85%, 45%);
+}
+.text-4 {
+    border-radius: 30px;
+    font-family: "Hanken Grotesk", sans-serif;
+    color: #ffffff;
+    background: hsl(224, 30%, 27%);
+    padding: 15px 10px 10px 10px;
+    text-decoration: none;
+
+  }
+  .box-4{
+    width: 300px;
+    margin: auto;
+  }
